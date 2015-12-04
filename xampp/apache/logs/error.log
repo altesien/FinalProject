@@ -1,0 +1,246 @@
+[Tue Nov 24 15:28:50.537932 2015] [ssl:warn] [pid 2472:tid 484] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 24 15:28:50.778841 2015] [ssl:warn] [pid 2472:tid 484] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 24 15:28:52.981172 2015] [mpm_winnt:notice] [pid 2472:tid 484] AH00455: Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.14 configured -- resuming normal operations
+[Tue Nov 24 15:28:52.981172 2015] [mpm_winnt:notice] [pid 2472:tid 484] AH00456: Apache Lounge VC11 Server built: Oct 13 2015 10:54:13
+[Tue Nov 24 15:28:52.981172 2015] [core:notice] [pid 2472:tid 484] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Nov 24 15:28:53.140283 2015] [mpm_winnt:notice] [pid 2472:tid 484] AH00418: Parent: Created child process 8024
+[Tue Nov 24 15:28:53.493531 2015] [ssl:warn] [pid 8024:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 24 15:28:53.614619 2015] [ssl:warn] [pid 8024:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 24 15:28:53.647642 2015] [mpm_winnt:notice] [pid 8024:tid 376] AH00354: Child: Starting 150 worker threads.
+[Tue Nov 24 15:29:00.277584 2015] [mpm_winnt:notice] [pid 2472:tid 484] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 24 15:29:02.280308 2015] [mpm_winnt:notice] [pid 8024:tid 376] AH00364: Child: All worker threads have exited.
+[Tue Nov 24 15:29:02.350506 2015] [mpm_winnt:notice] [pid 2472:tid 484] AH00430: Parent: Child process 8024 exited successfully.
+[Tue Nov 24 15:29:28.224255 2015] [ssl:warn] [pid 4864:tid 480] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 24 15:29:28.353330 2015] [ssl:warn] [pid 4864:tid 480] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 24 15:29:28.380349 2015] [mpm_winnt:notice] [pid 4864:tid 480] AH00455: Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.14 configured -- resuming normal operations
+[Tue Nov 24 15:29:28.380349 2015] [mpm_winnt:notice] [pid 4864:tid 480] AH00456: Apache Lounge VC11 Server built: Oct 13 2015 10:54:13
+[Tue Nov 24 15:29:28.380349 2015] [core:notice] [pid 4864:tid 480] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Nov 24 15:29:28.382313 2015] [mpm_winnt:notice] [pid 4864:tid 480] AH00418: Parent: Created child process 5508
+[Tue Nov 24 15:29:28.693969 2015] [ssl:warn] [pid 5508:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 24 15:29:28.839501 2015] [ssl:warn] [pid 5508:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 24 15:29:28.868538 2015] [mpm_winnt:notice] [pid 5508:tid 376] AH00354: Child: Starting 150 worker threads.
+[Tue Nov 24 20:53:41.027202 2015] [proxy:error] [pid 5508:tid 1704] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: AJP: attempt to connect to 127.0.0.1:8009 (127.0.0.1) failed
+[Tue Nov 24 20:53:41.027202 2015] [proxy:error] [pid 5508:tid 1704] AH00959: ap_proxy_connect_backend disabling worker for (127.0.0.1) for 5s
+[Tue Nov 24 20:53:41.027202 2015] [proxy_ajp:error] [pid 5508:tid 1704] [client ::1:53572] AH00896: failed to make connection to backend: 127.0.0.1
+[Tue Nov 24 20:53:59.302989 2015] [proxy:error] [pid 5508:tid 1724] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: AJP: attempt to connect to 127.0.0.1:8009 (127.0.0.1) failed
+[Tue Nov 24 20:53:59.302989 2015] [proxy:error] [pid 5508:tid 1724] AH00959: ap_proxy_connect_backend disabling worker for (127.0.0.1) for 5s
+[Tue Nov 24 20:53:59.302989 2015] [proxy_ajp:error] [pid 5508:tid 1724] [client ::1:53588] AH00896: failed to make connection to backend: 127.0.0.1
+[Tue Nov 24 20:54:59.157649 2015] [proxy:error] [pid 5508:tid 1720] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: AJP: attempt to connect to 127.0.0.1:8009 (127.0.0.1) failed
+[Tue Nov 24 20:54:59.157649 2015] [proxy:error] [pid 5508:tid 1720] AH00959: ap_proxy_connect_backend disabling worker for (127.0.0.1) for 5s
+[Tue Nov 24 20:54:59.157649 2015] [proxy_ajp:error] [pid 5508:tid 1720] [client ::1:53655] AH00896: failed to make connection to backend: 127.0.0.1
+[Tue Nov 24 20:55:08.796378 2015] [mpm_winnt:notice] [pid 4864:tid 480] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 24 20:55:18.237646 2015] [mpm_winnt:notice] [pid 5508:tid 376] AH00364: Child: All worker threads have exited.
+[Tue Nov 24 20:55:18.353682 2015] [mpm_winnt:notice] [pid 4864:tid 480] AH00430: Parent: Child process 5508 exited successfully.
+[Tue Nov 24 20:55:22.943844 2015] [ssl:warn] [pid 5768:tid 480] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 24 20:55:23.095320 2015] [ssl:warn] [pid 5768:tid 480] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 24 20:55:23.184536 2015] [mpm_winnt:notice] [pid 5768:tid 480] AH00455: Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.14 configured -- resuming normal operations
+[Tue Nov 24 20:55:23.184536 2015] [mpm_winnt:notice] [pid 5768:tid 480] AH00456: Apache Lounge VC11 Server built: Oct 13 2015 10:54:13
+[Tue Nov 24 20:55:23.184536 2015] [core:notice] [pid 5768:tid 480] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Nov 24 20:55:23.187281 2015] [mpm_winnt:notice] [pid 5768:tid 480] AH00418: Parent: Created child process 11876
+[Tue Nov 24 20:55:23.489709 2015] [ssl:warn] [pid 11876:tid 316] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 24 20:55:23.598348 2015] [ssl:warn] [pid 11876:tid 316] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 24 20:55:23.629372 2015] [mpm_winnt:notice] [pid 11876:tid 316] AH00354: Child: Starting 150 worker threads.
+[Tue Nov 24 20:55:42.874983 2015] [proxy:error] [pid 11876:tid 1732] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: AJP: attempt to connect to 127.0.0.1:8009 (127.0.0.1) failed
+[Tue Nov 24 20:55:42.874983 2015] [proxy:error] [pid 11876:tid 1732] AH00959: ap_proxy_connect_backend disabling worker for (127.0.0.1) for 5s
+[Tue Nov 24 20:55:42.874983 2015] [proxy_ajp:error] [pid 11876:tid 1732] [client ::1:53776] AH00896: failed to make connection to backend: 127.0.0.1
+[Wed Nov 25 04:33:36.742311 2015] [ssl:warn] [pid 1656:tid 496] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 25 04:33:37.007983 2015] [core:warn] [pid 1656:tid 496] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 25 04:33:37.101675 2015] [ssl:warn] [pid 1656:tid 496] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 25 04:33:41.492406 2015] [mpm_winnt:notice] [pid 1656:tid 496] AH00455: Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.14 configured -- resuming normal operations
+[Wed Nov 25 04:33:41.492406 2015] [mpm_winnt:notice] [pid 1656:tid 496] AH00456: Apache Lounge VC11 Server built: Oct 13 2015 10:54:13
+[Wed Nov 25 04:33:41.492406 2015] [core:notice] [pid 1656:tid 496] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Nov 25 04:33:41.492406 2015] [mpm_winnt:notice] [pid 1656:tid 496] AH00418: Parent: Created child process 2928
+[Wed Nov 25 04:33:42.054854 2015] [ssl:warn] [pid 2928:tid 380] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 25 04:33:42.242357 2015] [ssl:warn] [pid 2928:tid 380] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 25 04:33:42.257982 2015] [mpm_winnt:notice] [pid 2928:tid 380] AH00354: Child: Starting 150 worker threads.
+[Wed Nov 25 04:33:59.320666 2015] [mpm_winnt:notice] [pid 1656:tid 496] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 25 04:34:01.351994 2015] [mpm_winnt:notice] [pid 2928:tid 380] AH00364: Child: All worker threads have exited.
+[Wed Nov 25 04:34:01.508246 2015] [mpm_winnt:notice] [pid 1656:tid 496] AH00430: Parent: Child process 2928 exited successfully.
+[Wed Nov 25 04:36:56.785725 2015] [ssl:warn] [pid 1624:tid 484] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 25 04:36:57.020051 2015] [ssl:warn] [pid 1624:tid 484] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 25 04:37:00.910767 2015] [mpm_winnt:notice] [pid 1624:tid 484] AH00455: Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.14 configured -- resuming normal operations
+[Wed Nov 25 04:37:00.910767 2015] [mpm_winnt:notice] [pid 1624:tid 484] AH00456: Apache Lounge VC11 Server built: Oct 13 2015 10:54:13
+[Wed Nov 25 04:37:00.910767 2015] [core:notice] [pid 1624:tid 484] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Nov 25 04:37:00.910767 2015] [mpm_winnt:notice] [pid 1624:tid 484] AH00418: Parent: Created child process 2312
+[Wed Nov 25 04:37:01.285729 2015] [ssl:warn] [pid 2312:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 25 04:37:01.395105 2015] [ssl:warn] [pid 2312:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 25 04:37:01.426344 2015] [mpm_winnt:notice] [pid 2312:tid 376] AH00354: Child: Starting 150 worker threads.
+[Wed Nov 25 04:38:37.193011 2015] [mpm_winnt:notice] [pid 1624:tid 484] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 25 04:38:39.224281 2015] [mpm_winnt:notice] [pid 2312:tid 376] AH00364: Child: All worker threads have exited.
+[Wed Nov 25 04:38:39.349242 2015] [mpm_winnt:notice] [pid 1624:tid 484] AH00430: Parent: Child process 2312 exited successfully.
+[Wed Nov 25 04:40:24.241713 2015] [ssl:warn] [pid 1596:tid 492] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 25 04:40:24.397926 2015] [ssl:warn] [pid 1596:tid 492] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 25 04:40:27.882318 2015] [mpm_winnt:notice] [pid 1596:tid 492] AH00455: Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.14 configured -- resuming normal operations
+[Wed Nov 25 04:40:27.882318 2015] [mpm_winnt:notice] [pid 1596:tid 492] AH00456: Apache Lounge VC11 Server built: Oct 13 2015 10:54:13
+[Wed Nov 25 04:40:27.882318 2015] [core:notice] [pid 1596:tid 492] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Nov 25 04:40:27.882318 2015] [mpm_winnt:notice] [pid 1596:tid 492] AH00418: Parent: Created child process 3000
+[Wed Nov 25 04:40:28.194836 2015] [ssl:warn] [pid 3000:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 25 04:40:28.319824 2015] [ssl:warn] [pid 3000:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 25 04:40:28.335449 2015] [mpm_winnt:notice] [pid 3000:tid 376] AH00354: Child: Starting 150 worker threads.
+[Wed Nov 25 22:46:35.923549 2015] [mpm_winnt:notice] [pid 1596:tid 492] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 25 22:46:38.132207 2015] [mpm_winnt:notice] [pid 3000:tid 376] AH00364: Child: All worker threads have exited.
+[Wed Nov 25 22:46:41.032433 2015] [mpm_winnt:notice] [pid 1596:tid 492] AH00430: Parent: Child process 3000 exited successfully.
+[Mon Nov 30 22:02:31.724402 2015] [ssl:warn] [pid 9860:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 30 22:02:31.873808 2015] [ssl:warn] [pid 9860:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 30 22:02:34.708030 2015] [mpm_winnt:notice] [pid 9860:tid 448] AH00455: Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.14 configured -- resuming normal operations
+[Mon Nov 30 22:02:34.708030 2015] [mpm_winnt:notice] [pid 9860:tid 448] AH00456: Apache Lounge VC11 Server built: Oct 13 2015 10:54:13
+[Mon Nov 30 22:02:34.708030 2015] [core:notice] [pid 9860:tid 448] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Nov 30 22:02:34.728223 2015] [mpm_winnt:notice] [pid 9860:tid 448] AH00418: Parent: Created child process 6392
+[Mon Nov 30 22:02:35.034186 2015] [ssl:warn] [pid 6392:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 30 22:02:35.142619 2015] [ssl:warn] [pid 6392:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 30 22:02:35.172641 2015] [mpm_winnt:notice] [pid 6392:tid 396] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 30 22:45:58.957375 2015] [:error] [pid 6392:tid 1732] [client ::1:51951] script 'C:/xampp/htdocs/Examples/price.php' not found or unable to stat
+[Mon Nov 30 22:56:24.521197 2015] [:error] [pid 6392:tid 1732] [client ::1:52379] script 'C:/xampp/htdocs/Examples/radio.php' not found or unable to stat, referer: http://127.0.0.1:63773/index.html
+[Mon Nov 30 22:57:21.104716 2015] [:error] [pid 6392:tid 1732] [client ::1:52414] script 'C:/xampp/htdocs/Examples/radio.php' not found or unable to stat, referer: http://127.0.0.1:63773/index.html
+[Mon Nov 30 22:57:30.848685 2015] [:error] [pid 6392:tid 1732] [client ::1:52427] script 'C:/xampp/htdocs/Examples/radio.php' not found or unable to stat, referer: http://127.0.0.1:63773/index.html
+[Mon Nov 30 23:04:56.808215 2015] [:error] [pid 6392:tid 1728] [client ::1:52897] script 'C:/xampp/htdocs/Examples/dropdrown.php' not found or unable to stat, referer: http://127.0.0.1:63773/index.html
+[Tue Dec 01 02:49:41.963776 2015] [mpm_winnt:notice] [pid 9860:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 01 02:49:44.041688 2015] [mpm_winnt:notice] [pid 6392:tid 396] AH00364: Child: All worker threads have exited.
+[Tue Dec 01 02:49:46.630018 2015] [mpm_winnt:notice] [pid 9860:tid 448] AH00430: Parent: Child process 6392 exited successfully.
+[Tue Dec 01 02:55:13.005256 2015] [ssl:warn] [pid 10432:tid 488] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 01 02:55:13.110533 2015] [ssl:warn] [pid 10432:tid 488] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 01 02:55:13.419870 2015] [mpm_winnt:notice] [pid 10432:tid 488] AH00455: Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.14 configured -- resuming normal operations
+[Tue Dec 01 02:55:13.419870 2015] [mpm_winnt:notice] [pid 10432:tid 488] AH00456: Apache Lounge VC11 Server built: Oct 13 2015 10:54:13
+[Tue Dec 01 02:55:13.419870 2015] [core:notice] [pid 10432:tid 488] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Dec 01 02:55:13.460899 2015] [mpm_winnt:notice] [pid 10432:tid 488] AH00418: Parent: Created child process 2984
+[Tue Dec 01 02:55:13.809147 2015] [ssl:warn] [pid 2984:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 01 02:55:13.928230 2015] [ssl:warn] [pid 2984:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 01 02:55:13.991274 2015] [mpm_winnt:notice] [pid 2984:tid 372] AH00354: Child: Starting 150 worker threads.
+[Tue Dec 01 03:01:00.844374 2015] [mpm_winnt:notice] [pid 10432:tid 488] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 01 03:01:02.846619 2015] [mpm_winnt:notice] [pid 2984:tid 372] AH00364: Child: All worker threads have exited.
+[Tue Dec 01 03:01:02.887484 2015] [mpm_winnt:notice] [pid 10432:tid 488] AH00430: Parent: Child process 2984 exited successfully.
+[Tue Dec 01 03:02:40.135110 2015] [ssl:warn] [pid 9704:tid 488] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 01 03:02:40.565116 2015] [ssl:warn] [pid 9704:tid 488] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 01 03:02:40.604145 2015] [mpm_winnt:notice] [pid 9704:tid 488] AH00455: Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.14 configured -- resuming normal operations
+[Tue Dec 01 03:02:40.604145 2015] [mpm_winnt:notice] [pid 9704:tid 488] AH00456: Apache Lounge VC11 Server built: Oct 13 2015 10:54:13
+[Tue Dec 01 03:02:40.604145 2015] [core:notice] [pid 9704:tid 488] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Dec 01 03:02:40.606145 2015] [mpm_winnt:notice] [pid 9704:tid 488] AH00418: Parent: Created child process 3092
+[Tue Dec 01 03:02:42.291997 2015] [ssl:warn] [pid 3092:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 01 03:02:42.843851 2015] [ssl:warn] [pid 3092:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 01 03:02:43.606965 2015] [mpm_winnt:notice] [pid 3092:tid 432] AH00354: Child: Starting 150 worker threads.
+[Tue Dec 01 03:14:08.967624 2015] [mpm_winnt:notice] [pid 9704:tid 488] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 01 03:14:10.970861 2015] [mpm_winnt:notice] [pid 3092:tid 432] AH00364: Child: All worker threads have exited.
+[Tue Dec 01 03:14:11.010056 2015] [mpm_winnt:notice] [pid 9704:tid 488] AH00430: Parent: Child process 3092 exited successfully.
+[Tue Dec 01 03:14:12.917586 2015] [ssl:warn] [pid 5216:tid 484] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 01 03:14:13.098720 2015] [ssl:warn] [pid 5216:tid 484] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 01 03:14:13.125740 2015] [mpm_winnt:notice] [pid 5216:tid 484] AH00455: Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.14 configured -- resuming normal operations
+[Tue Dec 01 03:14:13.125740 2015] [mpm_winnt:notice] [pid 5216:tid 484] AH00456: Apache Lounge VC11 Server built: Oct 13 2015 10:54:13
+[Tue Dec 01 03:14:13.125740 2015] [core:notice] [pid 5216:tid 484] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Dec 01 03:14:13.127757 2015] [mpm_winnt:notice] [pid 5216:tid 484] AH00418: Parent: Created child process 11244
+[Tue Dec 01 03:14:13.435066 2015] [ssl:warn] [pid 11244:tid 388] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 01 03:14:13.561770 2015] [ssl:warn] [pid 11244:tid 388] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 01 03:14:13.595795 2015] [mpm_winnt:notice] [pid 11244:tid 388] AH00354: Child: Starting 150 worker threads.
+[Tue Dec 01 03:17:28.036810 2015] [mpm_winnt:notice] [pid 5216:tid 484] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 01 03:17:30.040297 2015] [mpm_winnt:notice] [pid 11244:tid 388] AH00364: Child: All worker threads have exited.
+[Tue Dec 01 03:17:30.084618 2015] [mpm_winnt:notice] [pid 5216:tid 484] AH00430: Parent: Child process 11244 exited successfully.
+[Tue Dec 01 03:17:32.814682 2015] [ssl:warn] [pid 8344:tid 480] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 01 03:17:33.055738 2015] [ssl:warn] [pid 8344:tid 480] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 01 03:17:33.083772 2015] [mpm_winnt:notice] [pid 8344:tid 480] AH00455: Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.14 configured -- resuming normal operations
+[Tue Dec 01 03:17:33.083772 2015] [mpm_winnt:notice] [pid 8344:tid 480] AH00456: Apache Lounge VC11 Server built: Oct 13 2015 10:54:13
+[Tue Dec 01 03:17:33.083772 2015] [core:notice] [pid 8344:tid 480] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Dec 01 03:17:33.085759 2015] [mpm_winnt:notice] [pid 8344:tid 480] AH00418: Parent: Created child process 6660
+[Tue Dec 01 03:17:33.371218 2015] [ssl:warn] [pid 6660:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 01 03:17:33.584052 2015] [ssl:warn] [pid 6660:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 01 03:17:33.615081 2015] [mpm_winnt:notice] [pid 6660:tid 376] AH00354: Child: Starting 150 worker threads.
+[Tue Dec 01 03:46:50.406529 2015] [include:error] [pid 6660:tid 1704] [client ::1:61820] unable to include potential exec "include/top.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*
+[Tue Dec 01 03:46:50.413758 2015] [include:error] [pid 6660:tid 1704] [client ::1:61820] unable to include potential exec "include/bottom.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*
+[Tue Dec 01 03:49:29.854669 2015] [mpm_winnt:notice] [pid 8344:tid 480] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 01 03:49:31.858055 2015] [mpm_winnt:notice] [pid 6660:tid 376] AH00364: Child: All worker threads have exited.
+[Tue Dec 01 03:49:31.898111 2015] [mpm_winnt:notice] [pid 8344:tid 480] AH00430: Parent: Child process 6660 exited successfully.
+[Thu Dec 03 00:19:57.115598 2015] [ssl:warn] [pid 8340:tid 492] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 00:19:57.322390 2015] [ssl:warn] [pid 8340:tid 492] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 00:19:58.544195 2015] [mpm_winnt:notice] [pid 8340:tid 492] AH00455: Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.14 configured -- resuming normal operations
+[Thu Dec 03 00:19:58.544195 2015] [mpm_winnt:notice] [pid 8340:tid 492] AH00456: Apache Lounge VC11 Server built: Oct 13 2015 10:54:13
+[Thu Dec 03 00:19:58.544195 2015] [core:notice] [pid 8340:tid 492] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Dec 03 00:19:58.546904 2015] [mpm_winnt:notice] [pid 8340:tid 492] AH00418: Parent: Created child process 9640
+[Thu Dec 03 00:19:58.858749 2015] [ssl:warn] [pid 9640:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 00:19:58.949348 2015] [ssl:warn] [pid 9640:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 00:19:58.978368 2015] [mpm_winnt:notice] [pid 9640:tid 424] AH00354: Child: Starting 150 worker threads.
+[Thu Dec 03 01:05:14.773543 2015] [include:error] [pid 9640:tid 1704] [client ::1:63347] unable to include potential exec "include/top.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*, referer: http://localhost/FinalProject/index.php
+[Thu Dec 03 01:05:14.773543 2015] [include:error] [pid 9640:tid 1704] [client ::1:63347] unable to include potential exec "include/bottom.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*, referer: http://localhost/FinalProject/index.php
+[Thu Dec 03 01:05:25.285233 2015] [include:error] [pid 9640:tid 1704] [client ::1:63356] unable to include potential exec "include/top.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*, referer: http://localhost/FinalProject/index.php
+[Thu Dec 03 01:05:25.286234 2015] [include:error] [pid 9640:tid 1704] [client ::1:63356] unable to include potential exec "include/bottom.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*, referer: http://localhost/FinalProject/index.php
+[Thu Dec 03 01:05:34.690470 2015] [include:error] [pid 9640:tid 1704] [client ::1:63377] unable to include potential exec "include/top.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*, referer: http://localhost/FinalProject/index.php
+[Thu Dec 03 01:05:34.690470 2015] [include:error] [pid 9640:tid 1704] [client ::1:63377] unable to include potential exec "include/bottom.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*, referer: http://localhost/FinalProject/index.php
+[Thu Dec 03 01:05:35.786352 2015] [include:error] [pid 9640:tid 1708] [client ::1:63379] unable to include potential exec "include/top.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*, referer: http://localhost/FinalProject/index.php
+[Thu Dec 03 01:05:35.787353 2015] [include:error] [pid 9640:tid 1708] [client ::1:63379] unable to include potential exec "include/bottom.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*, referer: http://localhost/FinalProject/index.php
+[Thu Dec 03 01:44:15.397872 2015] [include:error] [pid 9640:tid 1736] [client ::1:49247] unable to include potential exec "include/top.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*, referer: http://localhost/FinalProject/index.php
+[Thu Dec 03 01:44:15.397872 2015] [include:error] [pid 9640:tid 1736] [client ::1:49247] unable to include potential exec "include/bottom.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*, referer: http://localhost/FinalProject/index.php
+[Thu Dec 03 02:13:12.892100 2015] [include:error] [pid 9640:tid 1708] [client 127.0.0.1:53810] unable to include potential exec "include/top.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*
+[Thu Dec 03 02:13:12.892100 2015] [include:error] [pid 9640:tid 1708] [client 127.0.0.1:53810] unable to include potential exec "include/bottom.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*
+[Thu Dec 03 02:15:40.693736 2015] [include:error] [pid 9640:tid 1708] [client 127.0.0.1:54167] unable to include potential exec "include/top.html" in parsed file C:/xampp/apache/error/HTTP_BAD_REQUEST.html.var, content type not text/*
+[Thu Dec 03 02:15:40.694737 2015] [include:error] [pid 9640:tid 1708] [client 127.0.0.1:54167] unable to include potential exec "include/bottom.html" in parsed file C:/xampp/apache/error/HTTP_BAD_REQUEST.html.var, content type not text/*
+[Thu Dec 03 02:15:40.769782 2015] [include:error] [pid 9640:tid 1708] [client 127.0.0.1:54168] unable to include potential exec "include/top.html" in parsed file C:/xampp/apache/error/HTTP_BAD_REQUEST.html.var, content type not text/*
+[Thu Dec 03 02:15:40.770786 2015] [include:error] [pid 9640:tid 1708] [client 127.0.0.1:54168] unable to include potential exec "include/bottom.html" in parsed file C:/xampp/apache/error/HTTP_BAD_REQUEST.html.var, content type not text/*
+[Thu Dec 03 02:16:08.098389 2015] [include:error] [pid 9640:tid 1708] [client 127.0.0.1:54248] unable to include potential exec "include/top.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*
+[Thu Dec 03 02:16:08.099390 2015] [include:error] [pid 9640:tid 1708] [client 127.0.0.1:54248] unable to include potential exec "include/bottom.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*
+[Thu Dec 03 02:16:40.100250 2015] [include:error] [pid 9640:tid 1696] [client 127.0.0.1:54290] unable to include potential exec "include/top.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*
+[Thu Dec 03 02:16:40.100250 2015] [include:error] [pid 9640:tid 1696] [client 127.0.0.1:54290] unable to include potential exec "include/bottom.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*
+[Thu Dec 03 02:18:20.464819 2015] [mpm_winnt:notice] [pid 8340:tid 492] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 03 02:18:22.468126 2015] [mpm_winnt:notice] [pid 9640:tid 424] AH00364: Child: All worker threads have exited.
+[Thu Dec 03 02:18:22.580258 2015] [mpm_winnt:notice] [pid 8340:tid 492] AH00430: Parent: Child process 9640 exited successfully.
+[Thu Dec 03 02:18:49.986895 2015] [ssl:warn] [pid 4468:tid 484] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 02:18:50.169877 2015] [ssl:warn] [pid 4468:tid 484] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 02:18:50.199884 2015] [mpm_winnt:notice] [pid 4468:tid 484] AH00455: Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.14 configured -- resuming normal operations
+[Thu Dec 03 02:18:50.199884 2015] [mpm_winnt:notice] [pid 4468:tid 484] AH00456: Apache Lounge VC11 Server built: Oct 13 2015 10:54:13
+[Thu Dec 03 02:18:50.199884 2015] [core:notice] [pid 4468:tid 484] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Dec 03 02:18:50.201903 2015] [mpm_winnt:notice] [pid 4468:tid 484] AH00418: Parent: Created child process 7696
+[Thu Dec 03 02:18:50.595868 2015] [ssl:warn] [pid 7696:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 02:18:50.721362 2015] [ssl:warn] [pid 7696:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 02:18:50.753384 2015] [mpm_winnt:notice] [pid 7696:tid 408] AH00354: Child: Starting 150 worker threads.
+[Thu Dec 03 02:19:14.436854 2015] [include:error] [pid 7696:tid 1732] [client ::1:54525] unable to include potential exec "include/top.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*
+[Thu Dec 03 02:19:14.436854 2015] [include:error] [pid 7696:tid 1732] [client ::1:54525] unable to include potential exec "include/bottom.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*
+[Thu Dec 03 02:25:52.945555 2015] [include:error] [pid 7696:tid 1708] [client ::1:55167] unable to include potential exec "include/top.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*
+[Thu Dec 03 02:25:52.945555 2015] [include:error] [pid 7696:tid 1708] [client ::1:55167] unable to include potential exec "include/bottom.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*
+[Thu Dec 03 02:25:53.825463 2015] [include:error] [pid 7696:tid 1708] [client ::1:55167] unable to include potential exec "include/top.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*
+[Thu Dec 03 02:25:53.826471 2015] [include:error] [pid 7696:tid 1708] [client ::1:55167] unable to include potential exec "include/bottom.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*
+[Thu Dec 03 02:26:53.795131 2015] [include:error] [pid 7696:tid 1696] [client 127.0.0.1:55270] unable to include potential exec "include/top.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*
+[Thu Dec 03 02:26:53.795131 2015] [include:error] [pid 7696:tid 1696] [client 127.0.0.1:55270] unable to include potential exec "include/bottom.html" in parsed file C:/xampp/apache/error/HTTP_NOT_FOUND.html.var, content type not text/*
+[Thu Dec 03 02:28:04.592594 2015] [mpm_winnt:notice] [pid 4468:tid 484] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 03 02:28:06.594093 2015] [mpm_winnt:notice] [pid 7696:tid 408] AH00364: Child: All worker threads have exited.
+[Thu Dec 03 02:28:06.624178 2015] [mpm_winnt:notice] [pid 4468:tid 484] AH00430: Parent: Child process 7696 exited successfully.
+[Thu Dec 03 02:28:08.521005 2015] [ssl:warn] [pid 9328:tid 480] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 02:28:08.658213 2015] [ssl:warn] [pid 9328:tid 480] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 02:28:08.684247 2015] [mpm_winnt:notice] [pid 9328:tid 480] AH00455: Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.14 configured -- resuming normal operations
+[Thu Dec 03 02:28:08.684247 2015] [mpm_winnt:notice] [pid 9328:tid 480] AH00456: Apache Lounge VC11 Server built: Oct 13 2015 10:54:13
+[Thu Dec 03 02:28:08.684247 2015] [core:notice] [pid 9328:tid 480] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Dec 03 02:28:08.699852 2015] [mpm_winnt:notice] [pid 9328:tid 480] AH00418: Parent: Created child process 4064
+[Thu Dec 03 02:28:08.998845 2015] [ssl:warn] [pid 4064:tid 380] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 02:28:09.106226 2015] [ssl:warn] [pid 4064:tid 380] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 02:28:09.134246 2015] [mpm_winnt:notice] [pid 4064:tid 380] AH00354: Child: Starting 150 worker threads.
+[Thu Dec 03 04:26:15.091220 2015] [mpm_winnt:notice] [pid 9328:tid 480] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 03 04:26:17.343553 2015] [mpm_winnt:notice] [pid 4064:tid 380] AH00364: Child: All worker threads have exited.
+[Thu Dec 03 04:26:22.976019 2015] [mpm_winnt:notice] [pid 9328:tid 480] AH00430: Parent: Child process 4064 exited successfully.
+[Thu Dec 03 04:27:00.515112 2015] [ssl:warn] [pid 9856:tid 464] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 04:27:00.695972 2015] [ssl:warn] [pid 9856:tid 464] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 04:27:01.328778 2015] [mpm_winnt:notice] [pid 9856:tid 464] AH00455: Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.14 configured -- resuming normal operations
+[Thu Dec 03 04:27:01.329778 2015] [mpm_winnt:notice] [pid 9856:tid 464] AH00456: Apache Lounge VC11 Server built: Oct 13 2015 10:54:13
+[Thu Dec 03 04:27:01.329778 2015] [core:notice] [pid 9856:tid 464] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Dec 03 04:27:01.335783 2015] [mpm_winnt:notice] [pid 9856:tid 464] AH00418: Parent: Created child process 9336
+[Thu Dec 03 04:27:01.695896 2015] [ssl:warn] [pid 9336:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 04:27:01.806923 2015] [ssl:warn] [pid 9336:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 04:27:01.928705 2015] [mpm_winnt:notice] [pid 9336:tid 372] AH00354: Child: Starting 150 worker threads.
+[Thu Dec 03 04:34:47.175014 2015] [mpm_winnt:notice] [pid 9856:tid 464] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 03 04:34:49.177457 2015] [mpm_winnt:notice] [pid 9336:tid 372] AH00364: Child: All worker threads have exited.
+[Thu Dec 03 04:34:49.205492 2015] [mpm_winnt:notice] [pid 9856:tid 464] AH00430: Parent: Child process 9336 exited successfully.
+[Thu Dec 03 04:34:52.704035 2015] [ssl:warn] [pid 5828:tid 480] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 04:34:52.859008 2015] [ssl:warn] [pid 5828:tid 480] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 04:34:53.037558 2015] [mpm_winnt:notice] [pid 5828:tid 480] AH00455: Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.14 configured -- resuming normal operations
+[Thu Dec 03 04:34:53.037558 2015] [mpm_winnt:notice] [pid 5828:tid 480] AH00456: Apache Lounge VC11 Server built: Oct 13 2015 10:54:13
+[Thu Dec 03 04:34:53.037558 2015] [core:notice] [pid 5828:tid 480] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Dec 03 04:34:53.039644 2015] [mpm_winnt:notice] [pid 5828:tid 480] AH00418: Parent: Created child process 3436
+[Thu Dec 03 04:34:53.351241 2015] [ssl:warn] [pid 3436:tid 392] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 04:34:53.459906 2015] [ssl:warn] [pid 3436:tid 392] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 04:34:53.494931 2015] [mpm_winnt:notice] [pid 3436:tid 392] AH00354: Child: Starting 150 worker threads.
+[Thu Dec 03 14:26:56.527434 2015] [mpm_winnt:notice] [pid 5828:tid 480] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 03 14:26:58.547788 2015] [mpm_winnt:notice] [pid 3436:tid 392] AH00364: Child: All worker threads have exited.
+[Thu Dec 03 14:26:58.664512 2015] [mpm_winnt:notice] [pid 5828:tid 480] AH00430: Parent: Child process 3436 exited successfully.
+[Thu Dec 03 14:27:03.353524 2015] [ssl:warn] [pid 6424:tid 484] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 14:27:03.462846 2015] [ssl:warn] [pid 6424:tid 484] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 14:27:04.098916 2015] [mpm_winnt:notice] [pid 6424:tid 484] AH00455: Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.14 configured -- resuming normal operations
+[Thu Dec 03 14:27:04.098916 2015] [mpm_winnt:notice] [pid 6424:tid 484] AH00456: Apache Lounge VC11 Server built: Oct 13 2015 10:54:13
+[Thu Dec 03 14:27:04.098916 2015] [core:notice] [pid 6424:tid 484] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Dec 03 14:27:04.236025 2015] [mpm_winnt:notice] [pid 6424:tid 484] AH00418: Parent: Created child process 5712
+[Thu Dec 03 14:27:04.607847 2015] [ssl:warn] [pid 5712:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 14:27:04.723929 2015] [ssl:warn] [pid 5712:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 14:27:04.772943 2015] [mpm_winnt:notice] [pid 5712:tid 376] AH00354: Child: Starting 150 worker threads.

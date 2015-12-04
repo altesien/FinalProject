@@ -1,0 +1,456 @@
+9:59:52 AM  [main] 	Initializing Control Panel
+9:59:52 AM  [main] 	Windows Version: Windows 8 Enterprise  64-bit
+9:59:52 AM  [main] 	XAMPP Version: 5.6.14
+9:59:52 AM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+9:59:52 AM  [main] 	You are not running with administrator rights! This will work for
+9:59:52 AM  [main] 	most application stuff but whenever you do something with services
+9:59:52 AM  [main] 	there will be a security dialogue or things will break! So think 
+9:59:52 AM  [main] 	about running this application with administrator rights!
+9:59:52 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+9:59:52 AM  [main] 	Checking for prerequisites
+10:00:01 AM  [main] 	All prerequisites found
+10:00:01 AM  [main] 	Initializing Modules
+10:00:01 AM  [Apache] 	Problem detected!
+10:00:01 AM  [Apache] 	Port 80 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 1244!
+10:00:01 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:00:01 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:00:01 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:00:01 AM  [Apache] 	Problem detected!
+10:00:01 AM  [Apache] 	Port 443 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 1244!
+10:00:01 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:00:01 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:00:01 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:00:01 AM  [main] 	Starting Check-Timer
+10:00:01 AM  [main] 	Control Panel Ready
+10:07:51 AM  [Apache] 	Problem detected!
+10:07:51 AM  [Apache] 	Port 80 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 1244!
+10:07:51 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:07:51 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:07:51 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:07:51 AM  [Apache] 	Problem detected!
+10:07:51 AM  [Apache] 	Port 443 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 1244!
+10:07:51 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:07:51 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:07:51 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:07:51 AM  [Apache] 	Attempting to start Apache app...
+10:07:51 AM  [Apache] 	Status change detected: running
+10:07:52 AM  [Apache] 	Status change detected: stopped
+10:07:52 AM  [Apache] 	Error: Apache shutdown unexpectedly.
+10:07:52 AM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+10:07:52 AM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+10:07:52 AM  [Apache] 	Press the Logs button to view error logs and check
+10:07:52 AM  [Apache] 	the Windows Event Viewer for more clues
+10:07:52 AM  [Apache] 	If you need more help, copy and post this
+10:07:52 AM  [Apache] 	entire log window on the forums
+10:08:01 AM  [Apache] 	Problem detected!
+10:08:01 AM  [Apache] 	Port 80 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 1244!
+10:08:01 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:08:01 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:08:01 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:08:01 AM  [Apache] 	Problem detected!
+10:08:01 AM  [Apache] 	Port 443 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 1244!
+10:08:01 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:08:01 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:08:01 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:08:01 AM  [Apache] 	Attempting to start Apache app...
+10:08:01 AM  [Apache] 	Status change detected: running
+10:08:02 AM  [Apache] 	Status change detected: stopped
+10:08:02 AM  [Apache] 	Error: Apache shutdown unexpectedly.
+10:08:02 AM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+10:08:02 AM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+10:08:02 AM  [Apache] 	Press the Logs button to view error logs and check
+10:08:02 AM  [Apache] 	the Windows Event Viewer for more clues
+10:08:02 AM  [Apache] 	If you need more help, copy and post this
+10:08:02 AM  [Apache] 	entire log window on the forums
+12:23:16 PM  [main] 	Deinitializing Modules
+12:23:16 PM  [main] 	Deinitializing Control Panel
+
+2:22:48 PM  [main] 	Initializing Control Panel
+2:22:48 PM  [main] 	Windows Version: Windows 8 Enterprise  64-bit
+2:22:49 PM  [main] 	XAMPP Version: 5.6.14
+2:22:49 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+2:22:49 PM  [main] 	You are not running with administrator rights! This will work for
+2:22:49 PM  [main] 	most application stuff but whenever you do something with services
+2:22:49 PM  [main] 	there will be a security dialogue or things will break! So think 
+2:22:49 PM  [main] 	about running this application with administrator rights!
+2:22:49 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+2:22:49 PM  [main] 	Checking for prerequisites
+2:22:56 PM  [main] 	All prerequisites found
+2:22:56 PM  [main] 	Initializing Modules
+2:22:56 PM  [Apache] 	Problem detected!
+2:22:56 PM  [Apache] 	Port 80 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 7012!
+2:22:56 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+2:22:56 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+2:22:56 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+2:22:56 PM  [Apache] 	Problem detected!
+2:22:56 PM  [Apache] 	Port 443 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 7012!
+2:22:56 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+2:22:56 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+2:22:56 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+2:22:56 PM  [main] 	Starting Check-Timer
+2:22:56 PM  [main] 	Control Panel Ready
+2:23:50 PM  [main] 	Deinitializing Modules
+2:23:50 PM  [main] 	Deinitializing Control Panel
+
+2:24:51 PM  [main] 	Initializing Control Panel
+2:24:51 PM  [main] 	Windows Version: Windows 8 Enterprise  64-bit
+2:24:51 PM  [main] 	XAMPP Version: 5.6.14
+2:24:51 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+2:24:51 PM  [main] 	You are not running with administrator rights! This will work for
+2:24:51 PM  [main] 	most application stuff but whenever you do something with services
+2:24:51 PM  [main] 	there will be a security dialogue or things will break! So think 
+2:24:51 PM  [main] 	about running this application with administrator rights!
+2:24:51 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+2:24:51 PM  [main] 	Checking for prerequisites
+2:24:51 PM  [main] 	All prerequisites found
+2:24:51 PM  [main] 	Initializing Modules
+2:24:51 PM  [Apache] 	Problem detected!
+2:24:51 PM  [Apache] 	Port 80 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 7012!
+2:24:51 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+2:24:51 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+2:24:51 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+2:24:51 PM  [main] 	Starting Check-Timer
+2:24:51 PM  [main] 	Control Panel Ready
+2:25:40 PM  [Apache] 	Attempting to start Apache app...
+2:25:40 PM  [Apache] 	Status change detected: running
+2:25:45 PM  [Apache] 	Status change detected: stopped
+2:25:45 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+2:25:45 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+2:25:45 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+2:25:45 PM  [Apache] 	Press the Logs button to view error logs and check
+2:25:45 PM  [Apache] 	the Windows Event Viewer for more clues
+2:25:45 PM  [Apache] 	If you need more help, copy and post this
+2:25:45 PM  [Apache] 	entire log window on the forums
+2:25:53 PM  [Apache] 	Attempting to start Apache app...
+2:26:16 PM  [Apache] 	Attempting to start Apache app...
+2:26:17 PM  [Apache] 	Attempting to start Apache app...
+2:26:17 PM  [Apache] 	Status change detected: running
+2:26:18 PM  [Apache] 	Status change detected: stopped
+2:26:18 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+2:26:18 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+2:26:18 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+2:26:18 PM  [Apache] 	Press the Logs button to view error logs and check
+2:26:18 PM  [Apache] 	the Windows Event Viewer for more clues
+2:26:18 PM  [Apache] 	If you need more help, copy and post this
+2:26:18 PM  [Apache] 	entire log window on the forums
+2:26:20 PM  [Apache] 	Attempting to start Apache app...
+2:26:20 PM  [Apache] 	Status change detected: running
+2:26:20 PM  [Apache] 	Status change detected: stopped
+2:26:20 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+2:26:20 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+2:26:20 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+2:26:20 PM  [Apache] 	Press the Logs button to view error logs and check
+2:26:20 PM  [Apache] 	the Windows Event Viewer for more clues
+2:26:20 PM  [Apache] 	If you need more help, copy and post this
+2:26:20 PM  [Apache] 	entire log window on the forums
+2:26:32 PM  [Apache] 	Status change detected: running
+2:26:32 PM  [Apache] 	Status change detected: stopped
+2:26:32 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+2:26:32 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+2:26:32 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+2:26:32 PM  [Apache] 	Press the Logs button to view error logs and check
+2:26:32 PM  [Apache] 	the Windows Event Viewer for more clues
+2:26:32 PM  [Apache] 	If you need more help, copy and post this
+2:26:32 PM  [Apache] 	entire log window on the forums
+3:28:28 PM  [main] 	Deinitializing Modules
+3:28:28 PM  [main] 	Deinitializing Control Panel
+
+3:26:22 PM  [main] 	Initializing Control Panel
+3:26:22 PM  [main] 	Windows Version: Windows 8 Enterprise  64-bit
+3:26:22 PM  [main] 	XAMPP Version: 5.6.14
+3:26:22 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+3:26:22 PM  [main] 	You are not running with administrator rights! This will work for
+3:26:22 PM  [main] 	most application stuff but whenever you do something with services
+3:26:22 PM  [main] 	there will be a security dialogue or things will break! So think 
+3:26:22 PM  [main] 	about running this application with administrator rights!
+3:26:22 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+3:26:22 PM  [main] 	Checking for prerequisites
+3:26:23 PM  [main] 	All prerequisites found
+3:26:23 PM  [main] 	Initializing Modules
+3:26:23 PM  [main] 	Starting Check-Timer
+3:26:23 PM  [main] 	Control Panel Ready
+3:26:25 PM  [Apache] 	Attempting to start Apache service...
+3:27:45 PM  [Apache] 	Attempting to start Apache service...
+3:27:48 PM  [Apache] 	Attempting to start Apache service...
+3:27:49 PM  [Apache] 	Attempting to start Apache service...
+3:28:30 PM  [main] 	Deinitializing Modules
+3:28:30 PM  [main] 	Deinitializing Control Panel
+
+2:31:51 PM  [main] 	Initializing Control Panel
+2:31:51 PM  [main] 	Windows Version: Windows 8 Enterprise  64-bit
+2:31:51 PM  [main] 	XAMPP Version: 5.6.14
+2:31:51 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+2:31:51 PM  [main] 	Running with Administrator rights - good!
+2:31:51 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+2:31:51 PM  [main] 	Checking for prerequisites
+2:31:51 PM  [main] 	All prerequisites found
+2:31:51 PM  [main] 	Initializing Modules
+2:31:51 PM  [main] 	Starting Check-Timer
+2:31:51 PM  [main] 	Control Panel Ready
+2:31:53 PM  [Apache] 	Attempting to start Apache service...
+2:32:00 PM  [mysql] 	Attempting to start MySQL service...
+2:32:00 PM  [mysql] 	Status change detected: running
+2:32:05 PM  [Apache] 	Attempting to start Apache service...
+2:32:11 PM  [main] 	Executing "c:\xampp\"
+2:32:40 PM  [Apache] 	Problem detected!
+2:32:40 PM  [Apache] 	Port 443 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 7012!
+2:32:40 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+2:32:40 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+2:32:40 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+2:32:40 PM  [Apache] 	Attempting to start Apache service...
+2:32:57 PM  [Apache] 	Attempting to start Apache service...
+2:32:59 PM  [Apache] 	Attempting to start Apache service...
+2:33:23 PM  [Apache] 	Attempting to start Apache service...
+2:33:24 PM  [Apache] 	Attempting to start Apache service...
+2:33:24 PM  [Apache] 	Attempting to start Apache service...
+3:17:54 PM  [Apache] 	Attempting to start Apache service...
+3:17:56 PM  [Apache] 	Status change detected: running
+3:17:57 PM  [Apache] 	Status change detected: stopped
+3:17:57 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+3:17:57 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+3:17:57 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+3:17:57 PM  [Apache] 	Press the Logs button to view error logs and check
+3:17:57 PM  [Apache] 	the Windows Event Viewer for more clues
+3:17:57 PM  [Apache] 	If you need more help, copy and post this
+3:17:57 PM  [Apache] 	entire log window on the forums
+3:18:14 PM  [Apache] 	Attempting to start Apache service...
+3:18:35 PM  [Apache] 	Problem detected!
+3:18:35 PM  [Apache] 	Port 445 in use by "Unable to open process" with PID 4!
+3:18:35 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+3:18:35 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+3:18:35 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+3:18:35 PM  [Apache] 	Attempting to start Apache service...
+3:18:38 PM  [Apache] 	Problem detected!
+3:18:38 PM  [Apache] 	Port 445 in use by "Unable to open process" with PID 4!
+3:18:38 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+3:18:38 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+3:18:38 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+3:18:38 PM  [Apache] 	Attempting to start Apache service...
+3:18:49 PM  [Apache] 	Attempting to start Apache service...
+3:18:51 PM  [Apache] 	Attempting to start Apache service...
+3:20:03 PM  [Apache] 	Attempting to start Apache service...
+3:20:04 PM  [mysql] 	Attempting to stop MySQL service...
+3:20:06 PM  [mysql] 	Status change detected: stopped
+3:20:07 PM  [Apache] 	Attempting to start Apache service...
+3:26:14 PM  [Apache] 	Attempting to start Apache service...
+3:28:31 PM  [main] 	Deinitializing Modules
+3:28:31 PM  [main] 	Deinitializing Control Panel
+
+2:31:35 PM  [main] 	Initializing Control Panel
+2:31:35 PM  [main] 	Windows Version: Windows 8 Enterprise  64-bit
+2:31:35 PM  [main] 	XAMPP Version: 5.6.14
+2:31:35 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+2:31:35 PM  [main] 	You are not running with administrator rights! This will work for
+2:31:35 PM  [main] 	most application stuff but whenever you do something with services
+2:31:35 PM  [main] 	there will be a security dialogue or things will break! So think 
+2:31:35 PM  [main] 	about running this application with administrator rights!
+2:31:35 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+2:31:35 PM  [main] 	Checking for prerequisites
+2:31:35 PM  [main] 	All prerequisites found
+2:31:35 PM  [main] 	Initializing Modules
+2:31:35 PM  [main] 	Starting Check-Timer
+2:31:35 PM  [main] 	Control Panel Ready
+2:31:38 PM  [Apache] 	Attempting to start Apache service...
+2:32:00 PM  [mysql] 	Status change detected: running
+2:33:00 PM  [Apache] 	Status change detected: running
+2:33:00 PM  [Apache] 	Status change detected: stopped
+2:33:00 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+2:33:00 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+2:33:00 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+2:33:00 PM  [Apache] 	Press the Logs button to view error logs and check
+2:33:00 PM  [Apache] 	the Windows Event Viewer for more clues
+2:33:00 PM  [Apache] 	If you need more help, copy and post this
+2:33:00 PM  [Apache] 	entire log window on the forums
+3:17:55 PM  [Apache] 	Status change detected: running
+3:17:57 PM  [Apache] 	Status change detected: stopped
+3:17:57 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+3:17:57 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+3:17:57 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+3:17:57 PM  [Apache] 	Press the Logs button to view error logs and check
+3:17:57 PM  [Apache] 	the Windows Event Viewer for more clues
+3:17:57 PM  [Apache] 	If you need more help, copy and post this
+3:17:57 PM  [Apache] 	entire log window on the forums
+3:18:35 PM  [Apache] 	Status change detected: running
+3:18:36 PM  [Apache] 	Status change detected: stopped
+3:18:36 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+3:18:36 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+3:18:36 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+3:18:36 PM  [Apache] 	Press the Logs button to view error logs and check
+3:18:36 PM  [Apache] 	the Windows Event Viewer for more clues
+3:18:36 PM  [Apache] 	If you need more help, copy and post this
+3:18:36 PM  [Apache] 	entire log window on the forums
+3:20:06 PM  [mysql] 	Status change detected: stopped
+3:20:06 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+3:20:06 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+3:20:06 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+3:20:06 PM  [mysql] 	Press the Logs button to view error logs and check
+3:20:06 PM  [mysql] 	the Windows Event Viewer for more clues
+3:20:06 PM  [mysql] 	If you need more help, copy and post this
+3:20:06 PM  [mysql] 	entire log window on the forums
+3:28:33 PM  [main] 	Deinitializing Modules
+3:28:33 PM  [main] 	Deinitializing Control Panel
+
+2:27:00 PM  [main] 	Initializing Control Panel
+2:27:00 PM  [main] 	Windows Version: Windows 8 Enterprise  64-bit
+2:27:00 PM  [main] 	XAMPP Version: 5.6.14
+2:27:00 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+2:27:00 PM  [main] 	Running with Administrator rights - good!
+2:27:00 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+2:27:00 PM  [main] 	Checking for prerequisites
+2:27:00 PM  [main] 	All prerequisites found
+2:27:00 PM  [main] 	Initializing Modules
+2:27:00 PM  [main] 	Starting Check-Timer
+2:27:00 PM  [main] 	Control Panel Ready
+2:27:03 PM  [Apache] 	Attempting to start Apache app...
+2:29:04 PM  [Apache] 	Installing service...
+2:29:14 PM  [mysql] 	Installing service...
+2:29:39 PM  [mysql] 	Successful!
+2:29:39 PM  [Apache] 	Successful!
+2:29:42 PM  [Apache] 	Attempting to start Apache service...
+2:31:22 PM  [Apache] 	Attempting to start Apache service...
+2:31:53 PM  [Apache] 	Status change detected: running
+2:31:54 PM  [Apache] 	Status change detected: stopped
+2:31:54 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+2:31:54 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+2:31:54 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+2:31:54 PM  [Apache] 	Press the Logs button to view error logs and check
+2:31:54 PM  [Apache] 	the Windows Event Viewer for more clues
+2:31:54 PM  [Apache] 	If you need more help, copy and post this
+2:31:54 PM  [Apache] 	entire log window on the forums
+2:32:00 PM  [mysql] 	Status change detected: running
+2:32:57 PM  [Apache] 	Status change detected: running
+2:32:58 PM  [Apache] 	Status change detected: stopped
+2:32:58 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+2:32:58 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+2:32:58 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+2:32:58 PM  [Apache] 	Press the Logs button to view error logs and check
+2:32:58 PM  [Apache] 	the Windows Event Viewer for more clues
+2:32:58 PM  [Apache] 	If you need more help, copy and post this
+2:32:58 PM  [Apache] 	entire log window on the forums
+3:17:55 PM  [Apache] 	Status change detected: running
+3:17:57 PM  [Apache] 	Status change detected: stopped
+3:17:57 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+3:17:57 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+3:17:57 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+3:17:57 PM  [Apache] 	Press the Logs button to view error logs and check
+3:17:57 PM  [Apache] 	the Windows Event Viewer for more clues
+3:17:57 PM  [Apache] 	If you need more help, copy and post this
+3:17:57 PM  [Apache] 	entire log window on the forums
+3:20:06 PM  [mysql] 	Status change detected: stopped
+3:20:06 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+3:20:06 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+3:20:06 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+3:20:06 PM  [mysql] 	Press the Logs button to view error logs and check
+3:20:06 PM  [mysql] 	the Windows Event Viewer for more clues
+3:20:06 PM  [mysql] 	If you need more help, copy and post this
+3:20:06 PM  [mysql] 	entire log window on the forums
+3:28:34 PM  [main] 	Deinitializing Modules
+3:28:34 PM  [main] 	Deinitializing Control Panel
+
+2:26:30 PM  [main] 	Initializing Control Panel
+2:26:30 PM  [main] 	Windows Version: Windows 8 Enterprise  64-bit
+2:26:30 PM  [main] 	XAMPP Version: 5.6.14
+2:26:30 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+2:26:30 PM  [main] 	You are not running with administrator rights! This will work for
+2:26:30 PM  [main] 	most application stuff but whenever you do something with services
+2:26:30 PM  [main] 	there will be a security dialogue or things will break! So think 
+2:26:30 PM  [main] 	about running this application with administrator rights!
+2:26:30 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+2:26:30 PM  [main] 	Checking for prerequisites
+2:26:30 PM  [main] 	All prerequisites found
+2:26:30 PM  [main] 	Initializing Modules
+2:26:30 PM  [main] 	Starting Check-Timer
+2:26:30 PM  [main] 	Control Panel Ready
+2:26:32 PM  [Apache] 	Attempting to start Apache app...
+3:28:36 PM  [main] 	Deinitializing Modules
+3:28:36 PM  [main] 	Deinitializing Control Panel
+
+1:25:39 PM  [main] 	Initializing Control Panel
+1:25:39 PM  [main] 	Windows Version: Windows 8 Enterprise  64-bit
+1:25:39 PM  [main] 	XAMPP Version: 5.6.14
+1:25:39 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+1:25:39 PM  [main] 	You are not running with administrator rights! This will work for
+1:25:39 PM  [main] 	most application stuff but whenever you do something with services
+1:25:39 PM  [main] 	there will be a security dialogue or things will break! So think 
+1:25:39 PM  [main] 	about running this application with administrator rights!
+1:25:39 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+1:25:39 PM  [main] 	Checking for prerequisites
+1:25:46 PM  [main] 	All prerequisites found
+1:25:46 PM  [main] 	Initializing Modules
+1:25:46 PM  [mysql] 	XAMPP MySQL Service is already running on port 3306
+1:25:46 PM  [main] 	Starting Check-Timer
+1:25:46 PM  [main] 	Control Panel Ready
+1:25:55 PM  [mysql] 	Attempting to stop MySQL service...
+1:25:58 PM  [mysql] 	Status change detected: stopped
+10:46:34 PM  [Apache] 	Attempting to stop Apache service...
+10:46:36 PM  [Apache] 	Attempting to stop Apache service...
+10:46:41 PM  [Apache] 	Status change detected: stopped
+10:46:44 PM  [main] 	Deinitializing Modules
+10:46:44 PM  [main] 	Deinitializing Control Panel
+
+10:02:15 PM  [main] 	Initializing Control Panel
+10:02:15 PM  [main] 	Windows Version: Windows 8 Enterprise  64-bit
+10:02:15 PM  [main] 	XAMPP Version: 5.6.14
+10:02:15 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+10:02:15 PM  [main] 	You are not running with administrator rights! This will work for
+10:02:15 PM  [main] 	most application stuff but whenever you do something with services
+10:02:15 PM  [main] 	there will be a security dialogue or things will break! So think 
+10:02:15 PM  [main] 	about running this application with administrator rights!
+10:02:15 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+10:02:15 PM  [main] 	Checking for prerequisites
+10:02:16 PM  [main] 	All prerequisites found
+10:02:16 PM  [main] 	Initializing Modules
+10:02:16 PM  [main] 	Starting Check-Timer
+10:02:16 PM  [main] 	Control Panel Ready
+10:02:21 PM  [Apache] 	Attempting to start Apache service...
+10:02:24 PM  [Apache] 	Status change detected: running
+2:49:39 AM  [Apache] 	Attempting to stop Apache service...
+2:49:47 AM  [Apache] 	Status change detected: stopped
+2:55:10 AM  [Apache] 	Attempting to start Apache service...
+2:55:12 AM  [Apache] 	Status change detected: running
+3:00:59 AM  [Apache] 	Attempting to stop Apache service...
+3:01:03 AM  [Apache] 	Status change detected: stopped
+3:02:36 AM  [Apache] 	Attempting to start Apache service...
+3:02:40 AM  [Apache] 	Status change detected: running
+3:14:08 AM  [Apache] 	Attempting to stop Apache service...
+3:14:11 AM  [Apache] 	Status change detected: stopped
+3:14:12 AM  [Apache] 	Attempting to start Apache service...
+3:14:13 AM  [Apache] 	Status change detected: running
+3:17:27 AM  [Apache] 	Attempting to stop Apache service...
+3:17:30 AM  [Apache] 	Status change detected: stopped
+3:17:31 AM  [Apache] 	Attempting to start Apache service...
+3:17:32 AM  [Apache] 	Status change detected: running
+3:49:29 AM  [Apache] 	Attempting to stop Apache service...
+3:49:32 AM  [Apache] 	Status change detected: stopped
+12:19:16 AM  [Apache] 	Status change detected: running
+12:19:19 AM  [Apache] 	Status change detected: stopped
+12:19:46 AM  [main] 	Deinitializing Modules
+12:19:46 AM  [main] 	Deinitializing Control Panel
+
+12:18:56 AM  [main] 	Initializing Control Panel
+12:18:56 AM  [main] 	Windows Version: Windows 8 Enterprise  64-bit
+12:18:56 AM  [main] 	XAMPP Version: 5.6.14
+12:18:56 AM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+12:18:56 AM  [main] 	You are not running with administrator rights! This will work for
+12:18:56 AM  [main] 	most application stuff but whenever you do something with services
+12:18:56 AM  [main] 	there will be a security dialogue or things will break! So think 
+12:18:56 AM  [main] 	about running this application with administrator rights!
+12:18:56 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+12:18:56 AM  [main] 	Checking for prerequisites
+12:19:09 AM  [main] 	All prerequisites found
+12:19:09 AM  [main] 	Initializing Modules
+12:19:09 AM  [main] 	Starting Check-Timer
+12:19:09 AM  [main] 	Control Panel Ready
+12:19:13 AM  [Apache] 	Attempting to start Apache service...
+12:19:16 AM  [Apache] 	Status change detected: running
+12:19:19 AM  [Apache] 	Status change detected: stopped
+12:19:19 AM  [Apache] 	Error: Apache shutdown unexpectedly.
+12:19:19 AM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+12:19:19 AM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+12:19:19 AM  [Apache] 	Press the Logs button to view error logs and check
+12:19:19 AM  [Apache] 	the Windows Event Viewer for more clues
+12:19:19 AM  [Apache] 	If you need more help, copy and post this
+12:19:19 AM  [Apache] 	entire log window on the forums
+12:19:48 AM  [main] 	Deinitializing Modules
+12:19:48 AM  [main] 	Deinitializing Control Panel
+
